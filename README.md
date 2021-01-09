@@ -1,6 +1,6 @@
 # Homework_03-Javascript_Password_Generator
 
-Hello - This repository will serve as homework assignment submission to the UPenn LPS Coding Bootcamp. This assignment is intended to engage the student in writing JavaScript by creating a randomized passwoord generator. 
+Hello - This repository will serve as homework assignment submission to the UPenn LPS Coding Bootcamp. This assignment is intended to engage the student in writing JavaScript by creating a randomized password generator. 
 
 ## Table of Contents
 * [Installation](#installation)
